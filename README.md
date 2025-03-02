@@ -1,7 +1,7 @@
 # aleo_workshop_verulink_bridge
 Verulink is a trusted bridge platform that is designed to help move assets between Aleo and Ethereum blockchain. This connection allows users to transfer major assets like ETH, USDC, and USDT seamlessly between the two chains, leveraging the strengths of both platforms.
 
-# MY DEPLOYMENT
+# MY MINT TXN ID
 MINT TXN ID:
 at1j3vtuag9m00qg2l0j6ej69d7jc60q72amj5n2h25r75r3lqvnsgsde3xts
 
